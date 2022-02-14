@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB PAGE
+# WELCOME
 
 Here you will find a directory for my projects that I built during my time at General Assembly.
 
